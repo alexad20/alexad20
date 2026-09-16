@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexa</h1>
 <p align="center">I'm a Computer Science student, actively expanding my skills in programming languages, web development, and information systems. I'm passionate about learning new technologies and applying my knowledge to real-world projects. I have an Associate in Applied Science Degree in Computer Information Systems and currently, I am pursuing a Bachelor of Science in Computer Science, with the ultimate goal of becoming a software developer.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexad20" alt="alexad20" /></a> </p>
-
 - 🔭 I’m currently working on **my personal portfolio website.**
 
 - 📫 How to reach me **alexa.td20@gmail.com**
